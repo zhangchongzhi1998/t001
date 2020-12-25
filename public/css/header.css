@@ -1,0 +1,10 @@
+.container-fluid{width: 100%;background-color: #fff;}
+
+#header_top a{font-size: 14px;color: #999999;margin-right: 10px;text-decoration: none;}
+#header_top a:hover{color: #71B8DC;}
+.logo img{width: 160px;height: 45px;border-radius: 5%;margin-left: -10px;}
+.navbar{padding: 0;}
+.navbar a{margin-left: 15px;color: #999999;text-decoration: none;}
+.bg-dark {background-color: #fff !important;}
+.progress-bar{transition:all 0.5s ease;}
+.progress-bar:hover{transform:scale(1.1);}
